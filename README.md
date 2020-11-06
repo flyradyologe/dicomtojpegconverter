@@ -7,7 +7,7 @@ Number 6 at the end of example file is file extension (not .dcm or dicom). Actua
 
 WHAT THIS CODE DOES?
 
-1. scans all files in the directory in which, this code also has to be in. and retun a list.
+1. scans all files in the directory in which, this code also has to be in. and return a list.
 2. picks the file names contain multiple dots ("." string) from the list.
 3. reads the dicom files
 4. picks pixel info
